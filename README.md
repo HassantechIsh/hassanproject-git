@@ -1,2 +1,2 @@
 # hassanproject-git 
-this repo was use in learning git from amingoscode
+this repo is was use to upload my first web development project

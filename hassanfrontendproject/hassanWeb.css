@@ -1,0 +1,17 @@
+body{
+    background-color: rgba(21, 47, 52, 0.925);
+    
+  }
+
+  .container {
+    padding-top: 70px;}
+  .row .flex {
+   display: inline-flex;
+   width: 100%;}
+  img {
+   width:100%;
+   min-height:100px;}
+   #footers{
+     background-color: black;
+    
+   }
